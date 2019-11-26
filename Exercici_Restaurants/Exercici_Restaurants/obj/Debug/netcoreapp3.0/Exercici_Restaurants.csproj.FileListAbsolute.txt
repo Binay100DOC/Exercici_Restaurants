@@ -1,0 +1,11 @@
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\bin\Debug\netcoreapp3.0\Exercici_Restaurants.exe
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\bin\Debug\netcoreapp3.0\Exercici_Restaurants.deps.json
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\bin\Debug\netcoreapp3.0\Exercici_Restaurants.runtimeconfig.json
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\bin\Debug\netcoreapp3.0\Exercici_Restaurants.runtimeconfig.dev.json
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\bin\Debug\netcoreapp3.0\Exercici_Restaurants.dll
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\bin\Debug\netcoreapp3.0\Exercici_Restaurants.pdb
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\obj\Debug\netcoreapp3.0\Exercici_Restaurants.csprojAssemblyReference.cache
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\obj\Debug\netcoreapp3.0\Exercici_Restaurants.AssemblyInfoInputs.cache
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\obj\Debug\netcoreapp3.0\Exercici_Restaurants.AssemblyInfo.cs
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\obj\Debug\netcoreapp3.0\Exercici_Restaurants.dll
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Restaurants\Exercici_Restaurants\obj\Debug\netcoreapp3.0\Exercici_Restaurants.pdb
